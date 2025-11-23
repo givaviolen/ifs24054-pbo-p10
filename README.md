@@ -10,6 +10,9 @@
 
 - Melakukan inisialisasi proyek
 
+### Update Final
+- Menambahkan TodoController.java, Todo.java, TodoRepository, TodoService.java, TodoControllerTests.java, TodoTests.java, TodoServiceTest.java
+- Menambahkan CashFlow pada bagian controller, entities, repository, service beserta pada bagian test nya agar dapat diuji pada jacoco nya
 
 ## Syntax
 
